@@ -1,3 +1,6 @@
+# fetch songs's datas(their values for danceability, energy, etc)
+
+
 import numpy as np
 
 
