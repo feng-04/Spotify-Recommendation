@@ -1,3 +1,5 @@
+# fetching songs data from spotify api
+
 import spotipy as sp
 from spotipy.oauth2 import SpotifyOAuth
 import numpy as np
