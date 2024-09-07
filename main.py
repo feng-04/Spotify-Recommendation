@@ -7,8 +7,8 @@ import tensorflow as tf
 import sys
 
 # keys
-client_ID = 'ClientID'
-client_secret =  'ClientSecret'
+client_ID = 'ClientID Here'
+client_secret =  'ClientSecret Here'
 credential = f"{client_ID}:{client_secret}"
 bytes = credential.encode('ascii')
 encoded = base64.b64encode(bytes).decode('ascii')
