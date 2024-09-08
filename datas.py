@@ -8,7 +8,7 @@ attributes = ["danceability", "energy", "loudness", "acousticness", "valence", "
 
 
 
-class datas():
+class datas:
     def __init__(self):
         pass
 
